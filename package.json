@@ -1,6 +1,6 @@
 {
   "name": "@shridey/transformer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "release": {
     "branches": [
       "+([0-9])?(.{+([0-9]),x}).x",
